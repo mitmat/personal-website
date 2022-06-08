@@ -46,7 +46,7 @@ params:
   navallcaps: yes
   orgLocal: 
   orgName: 
-  sharing_image: /img/papillons.jpg
+  sharing_image: /img/matiu-m-snow-cropped.jpg
   social:
     - icon: google-scholar
       icon_pack: ai
@@ -73,12 +73,12 @@ params:
   #         poppy / sky / violet / water
   theme: water
   # twitter: apreshill
-  utterances:
-    issue_term: pathname
-    label: 'comments :crystal_ball:'
-    repo_name: apreshill/apero
-    theme: boxy-light
-    use_utterances: yes
+  # utterances:
+  #   issue_term: pathname
+  #   label: 'comments :crystal_ball:'
+  #   repo_name: apreshill/apero
+  #   theme: boxy-light
+  #   use_utterances: yes
 taxonomies:
   category: categories
   series: series

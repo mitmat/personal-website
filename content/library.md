@@ -75,7 +75,7 @@ I love to work with <a href="https://www.r-project.org/"><i class="fab fa-r-proj
 
 # Outreach & activism
 
-I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-south-tyrol-deutsch/) support [climate action](https://climateaction.bz/) and activism. In private life, I provide technical advice for [buddhist studies]() and [a philosophy blog](https://www.erinnermich.eu/). 
+I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-south-tyrol-deutsch/) support [climate action](https://climateaction.bz/) and activism. In private life, I provide technical advice for [buddhist studies](http://erschbamer.net/) and [a philosophy blog](https://www.erinnermich.eu/). 
 
 ### Blog entries
 
