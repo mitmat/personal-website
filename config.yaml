@@ -1,0 +1,137 @@
+baseURL: /
+theme: hugo-apero
+languageCode: en
+title: Michael Matiu
+author: Michael Matiu
+copyright: ''
+googleAnalytics: ''
+disqusShortname: ''
+metaDataFormat: yaml
+footnoteReturnLinkContents: '&#8617;'
+paginate: 5
+preserveTaxonomyNames: yes
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+enableEmoji: yes
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      hardwraps: no
+      unsafe: yes
+  highlight:
+    style: github
+  tableOfContents:
+    endLevel: 2
+    ordered: no
+    startLevel: 2
+params:
+  custom_theme: ''
+  customheadingFontFamily: Fraunces
+  customtextFontFamily: Commissioner
+  description: Michael Matiu's personal homepage
+  favicon: /img/tree-of-life.ico
+  headingFontFamily: sans-serif
+  logo: /img/tree-of-life.png
+  # mainSections:
+  #   - blog
+  #   - project
+  #   - talk
+  math:
+    renderer: katex
+  navallcaps: yes
+  orgLocal: 
+  orgName: 
+  sharing_image: /img/papillons.jpg
+  social:
+    - icon: google-scholar
+      icon_pack: ai
+      url: https://scholar.google.com/citations?user=de2JAHYAAAAJ&hl=de
+    - icon: orcid
+      icon_pack: ai
+      url: http://orcid.org/0000-0002-8082-1890
+    - icon: publons
+      icon_pack: ai
+      url: https://publons.com/researcher/1706934/michael-matiu/
+    - icon: researchgate
+      icon_pack: fab
+      url: https://www.researchgate.net/profile/Michael_Matiu
+    - icon: github
+      icon_pack: fab
+      url: https://github.com/mitmat
+    - icon: linkedin
+      icon_pack: fab
+      url: https://www.linkedin.com/in/michael-matiu-588920b2/
+  socialInFooter: yes
+  socialInHeader: no
+  textFontFamily: sans-serif
+  # one of: forest / grayscale / peach / plum /
+  #         poppy / sky / violet / water
+  theme: water
+  # twitter: apreshill
+  utterances:
+    issue_term: pathname
+    label: 'comments :crystal_ball:'
+    repo_name: apreshill/apero
+    theme: boxy-light
+    use_utterances: yes
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+menu:
+  footer:
+    - name: License
+      title: License
+      url: /license/
+      weight: 1
+    - name: Contact
+      title: Contact form
+      url: /contact/
+      weight: 2
+  header:
+    - name: Home
+      title: Home
+      url: /
+      weight: 1
+    - name: About
+      title: About
+      url: /about/
+      weight: 2
+    - name: Cherries
+      title: Cherries
+      url: /cherries/
+      weight: 3
+    - name: Library
+      title: Library
+      url: /library/
+      weight: 4
+    - name: Contact
+      title: Contact form
+      url: /contact/
+      weight: 7
+privacy:
+  disqus:
+    disable: no
+  googleAnalytics:
+    anonymizeIP: yes
+    disable: no
+    respectDoNotTrack: yes
+  instagram:
+    disable: no
+    simple: yes
+  twitter:
+    disable: no
+    enableDNT: yes
+    simple: no
+  vimeo:
+    disable: no
+    enableDNT: yes
+    simple: yes
+  youtube:
+    disable: no
+    privacyEnhanced: yes
