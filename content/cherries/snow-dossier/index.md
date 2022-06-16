@@ -5,7 +5,8 @@ date: "2022-06-06"
 draft: false
 excerpt: "Magazine-type publication on snow cover in South Tyrol and the Alps: What is snow? How has it changed and how will it change? What are the effects?"
 featured: true
-layout: single-sidebar
+type: project
+# layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas

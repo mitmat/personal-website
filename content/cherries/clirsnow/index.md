@@ -5,7 +5,8 @@ date: "2022-06-07"
 draft: false
 excerpt: "An EU-funded project to work on snow cover in the European Alps: the present climatology, past changes, and future changes depending on different scenarios of greenhouse gas concentrations."
 featured: true
-layout: single-sidebar
+type: project
+# layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas

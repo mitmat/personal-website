@@ -5,7 +5,8 @@ date: "2022-06-05"
 draft: false
 excerpt: "A science paper with first Alpine-wide analysis of in-situ snow depth observations. It shows the impact of the Alpine topography on snow cover and examines long-term past trends at the Alpine scale."
 featured: true
-layout: single-sidebar
+type: project
+# layout: single-sidebar
 links:
 - icon: open-access
   icon_pack: ai

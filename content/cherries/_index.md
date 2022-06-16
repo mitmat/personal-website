@@ -9,6 +9,7 @@ cascade:
     text_link_label: View all projects
     text_link_url: /cherries/
 description: Projects, science, and more.
+type: project
 layout: list-grid
 show_author_byline: false
 show_button_links: true
