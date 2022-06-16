@@ -13,7 +13,7 @@ images:
 - img/matiu-m-snow-cropped.jpg
 show_action_link: true
 show_social_links: true
-subtitle: test-subtitle
+subtitle:
 text_align_left: true
 title: Michael Matiu
 type: home
