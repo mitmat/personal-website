@@ -3,12 +3,9 @@ description: A collection of almost anything.
 draft: false
 layout: standard
 show_title_as_headline: false
-title: Library
+title: Library (a non-exhaustive collection of works)
+url: library
 ---
-
-<section class="blog-intro mw8 center tc mb5">
-<h2 class="f2 f1-ns lh-solid center fw4">A non-exhaustive collection of works</h2>
-</section>
 
 
 # Academic
