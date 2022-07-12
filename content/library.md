@@ -84,4 +84,4 @@ I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-s
 
 ### Media
 
-Various interviews related to Alpine snow cover as part of [CliRSnow](/cherries/clirsnow/): see [here](https://clirsnow.netlify.app/communication/media-coverage-alpine-snow-paper/) and [here](https://clirsnow.netlify.app/communication/media-coverage-snow-dossier/).
+Various interviews related to Alpine snow cover (as part of [CliRSnow](/cherries/clirsnow/)): [past changes](https://clirsnow.netlify.app/communication/media-coverage-alpine-snow-paper/),  [snow in general](https://clirsnow.netlify.app/communication/media-coverage-snow-dossier/), and [future snow](https://clirsnow.netlify.app/communication/media-coverage-future-alps-paper/).
