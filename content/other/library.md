@@ -30,19 +30,20 @@ The full paper list can be found via the following profiles:
 
 ### Invited
 
-- How to manage code and data for open science (and yourself). As part of "SC3.13 Open science beyond open-access publications: how can we share our code and data?".  EGU22, Vienna, Austria & Online, 23-27 May 2022. [(slides)](https://mitmat.github.io/slides/2022-05-26-egu/code-data-open-science.html)
+- How to manage code and data for open science (and yourself). As part of [SC3.13](https://meetingorganizer.copernicus.org/EGU22/session/44089): "Open science beyond open-access publications: how can we share our code and data?".  EGU22, Vienna, Austria & Online, 23-27 May 2022. [(slides)](https://mitmat.github.io/slides/2022-05-26-egu/code-data-open-science.html)
 
 
-### Contributions
+### Conference & workshop contributions
 
-- EGU General Assembly 2015, 2016, 2017, 2019, 2020, 2021
-- VAO (Virtual Alpine Observatory) 2015, 2017
+- INARCH Workshop [2022](https://inarch.usask.ca/news-events/inarch-workshop-2022.php)
+- EGU General Assembly [2019](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-7000.pdf), [2020](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-4610.html), [2021](https://meetingorganizer.copernicus.org/EGU21/EGU21-3287.html)
+- VAO (Virtual Alpine Observatory) [2015](https://www.bayfor.org/en/news/events/detail-en/events/show/virtual-alpine-observatory-symposium-2015.html)
 - ICAM (International Conference on Alpine Meteorology) 2019
-- IMC (International Mountain conference) 2019
+- IMC (International Mountain conference) [2019](https://www.uibk.ac.at/congress/imc2019/program/2.3.b.html.en)
 
 ### Slides
 
-[Slides](https://mitmat.github.io/slides) to some, mostly <i class="fab fa-r-project"></i>-related, talks (vizualization, geospatial, open science) are available via Github together with the [source code](https://github.com/mitmat/slides).
+[Slides](https://mitmat.github.io/slides) to some talks are available via Github together with the [source code](https://github.com/mitmat/slides).
 
 ## Review/Editor activities
 
@@ -72,13 +73,13 @@ I love to work with <a href="https://www.r-project.org/"><i class="fab fa-r-proj
 
 # Outreach & activism
 
-I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-south-tyrol-deutsch/) support [climate action](https://climateaction.bz/) and activism. In private life, I provide technical advice for [buddhist studies](http://erschbamer.net/) and [a philosophy blog](https://www.erinnermich.eu/). 
+I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-south-tyrol-deutsch/) support [climate action](https://climateaction.bz/) and activism, for example with [fact checks](https://climateaction.bz/faktencheck-dolomiti-superski-vs-klimafakten/). In private life, I provide technical advice for [buddhist studies](http://erschbamer.net/) and [a philosophy blog](https://www.erinnermich.eu/). 
+
+### Media
+
+Various interviews related to Alpine snow cover (as part of [CliRSnow](/cherries/clirsnow/)): [past changes](https://clirsnow.netlify.app/communication/media-coverage-alpine-snow-paper/),  [snow in general](https://clirsnow.netlify.app/communication/media-coverage-snow-dossier/), and [future snow](https://clirsnow.netlify.app/communication/media-coverage-future-alps-paper/).
 
 ### Blog entries
 
 - [Techonology won't save us](https://www.eurac.edu/en/blogs/covid-19/time-to-reboot-technology-wont-save-us), as part of Eurac's [Covid-19 and Beyond](https://www.eurac.edu/en/blogs/covid-19) blog
 - [The aerial cableway for the climate](https://climateaction.bz/die-cabrio-seilbahn-fur-das-klima/) as part of the "Everyday for Greenwashing" section at [climateaction.bz](https://climateaction.bz/)
-
-### Media
-
-Various interviews related to Alpine snow cover (as part of [CliRSnow](/cherries/clirsnow/)): [past changes](https://clirsnow.netlify.app/communication/media-coverage-alpine-snow-paper/),  [snow in general](https://clirsnow.netlify.app/communication/media-coverage-snow-dossier/), and [future snow](https://clirsnow.netlify.app/communication/media-coverage-future-alps-paper/).
