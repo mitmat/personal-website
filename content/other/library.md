@@ -18,7 +18,7 @@ The full paper list can be found via the following profiles:
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="ai ai-google-scholar"></i></span><a href="https://scholar.google.com/citations?user=de2JAHYAAAAJ&hl=de">Google Scholar</a>  </li>
   <li><span class="fa-li"><i class="ai ai-orcid"></i></span><a href="http://orcid.org/0000-0002-8082-1890">ORCID</a></li>
-  <li><span class="fa-li"><i class="ai ai-publons"></i></span><a href="https://publons.com/researcher/1706934/michael-matiu/">Publons</a>  </li>
+  <li><span class="fa-li"><i class="ai ai-clarivate"></i></span><a href="https://www.webofscience.com/wos/author/record/HGD-8818-2022">Web of Science (Clarivate)</a>  </li>
   <li><span class="fa-li"><i class="fab fa-researchgate"></i></span><a href="https://www.researchgate.net/profile/Michael_Matiu">Researchgate</a></li>
 </ul>
 
@@ -51,7 +51,7 @@ The full paper list can be found via the following profiles:
 - since 2021: Review Editor for [Frontiers in Water](https://www.frontiersin.org/journals/water#), section Water and Hydrocomplexity
 - 2019 - 2020: Member of reviewer board of [Water](https://www.mdpi.com/journal/water/) 
 
-For a list of verified reviews, see [my publons profile](https://publons.com/researcher/1706934/michael-matiu/peer-review/).
+For a list of verified reviews, see [my Web of Science profile](https://www.webofscience.com/wos/author/record/HGD-8818-2022).
 
 
 # Coding

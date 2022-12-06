@@ -54,9 +54,9 @@ params:
     - icon: orcid
       icon_pack: ai
       url: http://orcid.org/0000-0001-5289-0592
-    - icon: publons
+    - icon: clarivate
       icon_pack: ai
-      url: https://publons.com/researcher/1706934/michael-matiu/
+      url: https://www.webofscience.com/wos/author/record/HGD-8818-2022
     - icon: researchgate
       icon_pack: fab
       url: https://www.researchgate.net/profile/Michael_Matiu
