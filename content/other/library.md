@@ -19,7 +19,7 @@ The full paper list can be found via the following profiles:
   <li><span class="fa-li"><i class="ai ai-google-scholar"></i></span><a href="https://scholar.google.com/citations?user=de2JAHYAAAAJ&hl=de">Google Scholar</a>  </li>
   <li><span class="fa-li"><i class="ai ai-orcid"></i></span><a href="http://orcid.org/0000-0002-8082-1890">ORCID</a></li>
   <li><span class="fa-li"><i class="ai ai-clarivate"></i></span><a href="https://www.webofscience.com/wos/author/record/HGD-8818-2022">Web of Science (Clarivate)</a>  </li>
-  <li><span class="fa-li"><i class="fab fa-researchgate"></i></span><a href="https://www.researchgate.net/profile/Michael_Matiu">Researchgate</a></li>
+  <li><span class="fa-li"><i class="ai ai-researchgate"></i></span><a href="https://www.researchgate.net/profile/Michael_Matiu">Researchgate</a></li>
 </ul>
 
 

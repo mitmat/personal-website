@@ -58,7 +58,7 @@ params:
       icon_pack: ai
       url: https://www.webofscience.com/wos/author/record/HGD-8818-2022
     - icon: researchgate
-      icon_pack: fab
+      icon_pack: ai
       url: https://www.researchgate.net/profile/Michael_Matiu
     - icon: github
       icon_pack: fab
