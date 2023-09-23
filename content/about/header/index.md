@@ -7,5 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-If you want to know more, have a look at a cherry-picked [selection of works](/cherries/), at the longer [collection](/library/), or download a full (long-ish) scientific [resumé](/uploads/resume.pdf). 
+If you want to know more, have a look at a cherry-picked [selection of works](/cherries/) or at the longer [collection](/library/). 
 
