@@ -30,13 +30,15 @@ The full paper list can be found via the following profiles:
 
 ### Invited
 
-- How to manage code and data for open science (and yourself). As part of [SC3.13](https://meetingorganizer.copernicus.org/EGU22/session/44089): "Open science beyond open-access publications: how can we share our code and data?".  EGU22, Vienna, Austria & Online, 23-27 May 2022. [(slides)](https://mitmat.github.io/slides/2022-05-26-egu/code-data-open-science.html)
+- How to manage code and data for open science (and yourself). As part of [SC3.13](https://meetingorganizer.copernicus.org/EGU22/session/44089): "Open science beyond open-access publications: how can we share our code and data?". EGU22, Vienna, Austria & Online, 23-27 May 2022. [(slides)](https://mitmat.github.io/slides/2022-05-26-egu/code-data-open-science.html)
 
 
 ### Conference & workshop contributions
 
-- INARCH Workshop [2022](https://inarch.usask.ca/news-events/inarch-workshop-2022.php)
-- EGU General Assembly [2019](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-7000.pdf), [2020](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-4610.html), [2021](https://meetingorganizer.copernicus.org/EGU21/EGU21-3287.html)
+
+- EGU (European Geosciences Union) General Assembly [2019](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-7000.pdf), [2020](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-4610.html), [2021](https://meetingorganizer.copernicus.org/EGU21/EGU21-3287.html), [2023](https://meetingorganizer.copernicus.org/EGU23/EGU23-1402.html)
+- IUGG (International Union of Geodesy and Geophysics) General Assembly 2023 
+- INARCH (International Network for Alpine Research Catchment Hydrology) Workshop [2022](https://inarch.usask.ca/news-events/inarch-workshop-2022.php)
 - VAO (Virtual Alpine Observatory) [2015](https://www.bayfor.org/en/news/events/detail-en/events/show/virtual-alpine-observatory-symposium-2015.html)
 - ICAM (International Conference on Alpine Meteorology) 2019
 - IMC (International Mountain conference) [2019](https://www.uibk.ac.at/congress/imc2019/program/2.3.b.html.en)
@@ -47,11 +49,12 @@ The full paper list can be found via the following profiles:
 
 ## Review/Editor activities
 
+- Reviewing papers for International Journal of Climatology (JOC), The Cryosphere (TC), Geoscientific Model Development (GMD), and more. For a list of verified reviews, see [my Web of Science profile](https://www.webofscience.com/wos/author/record/HGD-8818-2022).
+- Reviewing projects for the European Union (MSCA fellowships), Czech Science Foundation, Dutch Research Council. 
 - since 2022: Preprint moderator for [EGUsphere](https://www.egusphere.net/)
 - since 2021: Review Editor for [Frontiers in Water](https://www.frontiersin.org/journals/water#), section Water and Hydrocomplexity
 - 2019 - 2020: Member of reviewer board of [Water](https://www.mdpi.com/journal/water/) 
 
-For a list of verified reviews, see [my Web of Science profile](https://www.webofscience.com/wos/author/record/HGD-8818-2022).
 
 
 # Coding
@@ -60,7 +63,6 @@ I love to work with <a href="https://www.r-project.org/"><i class="fab fa-r-proj
 
 - Maintainer of `eurocordexr`, an R-package that makes it easier to work with [EURO-CORDEX](https://www.euro-cordex.net/) regional climate model simulation netcdf files. Available via [CRAN](https://cran.r-project.org/web/packages/eurocordexr/index.html) with the [source](https://github.com/mitmat/eurocordexr) on Github.
 - Created websites (this one here and the one for [CliRSnow](https://clirsnow.netlify.app/)) with `blogdown`
-- Some [slides](https://github.com/mitmat/slides) to mostly R-related topics are also online, thanks to `xaringan`
 
 
 # Data sets
@@ -73,11 +75,17 @@ I love to work with <a href="https://www.r-project.org/"><i class="fab fa-r-proj
 
 # Outreach & activism
 
-I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-south-tyrol-deutsch/) support [climate action](https://climateaction.bz/) and activism, for example with [fact checks](https://climateaction.bz/faktencheck-dolomiti-superski-vs-klimafakten/). In private life, I provide technical advice for [buddhist studies](http://erschbamer.net/) and [a philosophy blog](https://www.erinnermich.eu/). 
+I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-south-tyrol-deutsch/) support [climate action](https://climateaction.bz/) and activism, for example with fact checks (see, e.g., [1](https://climateaction.bz/faktencheck-dolomiti-superski-vs-klimafakten/) or   [2](https://www.scientistsforfuture.bz/de/2023/08/16/faktencheck-scarafoni-oberkofler/)). In private life, I provide technical advice for [buddhist studies](http://erschbamer.net/) and [a philosophy blog](https://www.erinnermich.eu/). 
+
+### Talks
+
+- Invited: "Schnee im Klimawandel", organized by [Globoalpin](https://www.globoalpin.com/) as part of their annual talks on Mountains and Climate (Berg und Klima, [Gipfelgespräche 2024](https://www.globoalpin.com/de/gipfelgespraeche-berg-und-klima-im-fokus.html)). [(slides)](https://mitmat.github.io/slides/2024-01-12-bergklima/bergklima.html)
 
 ### Media
 
-Various interviews related to Alpine snow cover (as part of [CliRSnow](/cherries/clirsnow/)): [past changes](https://clirsnow.netlify.app/communication/media-coverage-alpine-snow-paper/),  [snow in general](https://clirsnow.netlify.app/communication/media-coverage-snow-dossier/), and [future snow](https://clirsnow.netlify.app/communication/media-coverage-future-alps-paper/).
+- On snow in local online media [barfuss.it](https://www.barfuss.it/leben/wenn-die-schneetage-schwinden/)
+- German regional television ([BR, Bergauf-Bergab: Faszination Schnee](https://1.ard.de/faszination-schnee))
+- Various interviews related to Alpine snow cover (as part of [CliRSnow](/cherries/clirsnow/)): [past changes](https://clirsnow.netlify.app/communication/media-coverage-alpine-snow-paper/),  [snow in general](https://clirsnow.netlify.app/communication/media-coverage-snow-dossier/), and [future snow](https://clirsnow.netlify.app/communication/media-coverage-future-alps-paper/).
 
 ### Blog entries
 
