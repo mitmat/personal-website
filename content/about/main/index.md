@@ -6,16 +6,22 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  ### Expertise
+  ### Research interests
   
-  - applied statistics (non-linear)
-  - statistical data analysis (multidimensional, spatiotemporal)
+  - climate-snow interactions in mountain environments
+  - spatiotemporal variability of temperature, precipitation, and snow in complex terrain
+  - climate change and its impacts
+
+  ### Analytical expertise
+  
+  - statistical data analysis (multidimensional, spatiotemporal, nonlinear)
   - image analysis (earth observation, webcam)
   - open & reproducible science
   
-  ### What I enjoy
+  ### What I enjoy 
   
-  - creating vizualizations (static, interactive)
+  - asking questions
+  - creating visualizations (static, interactive)
   - exploring the steady stream of new capabilities of R and RStudio
   - learning
   

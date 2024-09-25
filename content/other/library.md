@@ -49,7 +49,7 @@ The full paper list can be found via the following profiles:
 
 ## Review/Editor activities
 
-- Reviewing papers for International Journal of Climatology (JOC), The Cryosphere (TC), Geoscientific Model Development (GMD), and more. For a list of verified reviews, see [my Web of Science profile](https://www.webofscience.com/wos/author/record/HGD-8818-2022).
+- Reviewing papers for The Cryosphere (TC), International Journal of Climatology (JOC), Geoscientific Model Development (GMD), Climate Dynamics, and more. For a list of verified reviews, see [my Web of Science profile](https://www.webofscience.com/wos/author/record/HGD-8818-2022).
 - Reviewing projects for the European Union (MSCA fellowships), Czech Science Foundation, Dutch Research Council. 
 - since 2022: Preprint moderator for [EGUsphere](https://www.egusphere.net/)
 - since 2021: Review Editor for [Frontiers in Water](https://www.frontiersin.org/journals/water#), section Water and Hydrocomplexity
@@ -73,11 +73,11 @@ I love to work with <a href="https://www.r-project.org/"><i class="fab fa-r-proj
 
 
 
-# Outreach & activism
+# Outreach
 
 I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-south-tyrol-deutsch/) support [climate action](https://climateaction.bz/) and activism, for example with fact checks (see, e.g., [1](https://climateaction.bz/faktencheck-dolomiti-superski-vs-klimafakten/) or   [2](https://www.scientistsforfuture.bz/de/2023/08/16/faktencheck-scarafoni-oberkofler/)). In private life, I provide technical advice for [buddhist studies](http://erschbamer.net/) and [a philosophy blog](https://www.erinnermich.eu/). 
 
-### Talks
+### Talks to general audience
 
 - Invited: "Schnee im Klimawandel", organized by [Globoalpin](https://www.globoalpin.com/) as part of their annual talks on Mountains and Climate (Berg und Klima, [Gipfelgespräche 2024](https://www.globoalpin.com/de/gipfelgespraeche-berg-und-klima-im-fokus.html)). [(slides)](https://mitmat.github.io/slides/2024-01-12-bergklima/bergklima.html)
 
@@ -87,7 +87,10 @@ I [scientifically](https://www.scientistsforfuture.bz/de/scientists-for-future-s
 - German regional television ([BR, Bergauf-Bergab: Faszination Schnee](https://1.ard.de/faszination-schnee))
 - Various interviews related to Alpine snow cover (as part of [CliRSnow](/cherries/clirsnow/)): [past changes](https://clirsnow.netlify.app/communication/media-coverage-alpine-snow-paper/),  [snow in general](https://clirsnow.netlify.app/communication/media-coverage-snow-dossier/), and [future snow](https://clirsnow.netlify.app/communication/media-coverage-future-alps-paper/).
 
+<!--
 ### Blog entries
 
 - [Techonology won't save us](https://www.eurac.edu/en/blogs/covid-19/time-to-reboot-technology-wont-save-us), as part of Eurac's [Covid-19 and Beyond](https://www.eurac.edu/en/blogs/covid-19) blog
 - [The aerial cableway for the climate](https://climateaction.bz/die-cabrio-seilbahn-fur-das-klima/) as part of the "Everyday for Greenwashing" section at [climateaction.bz](https://climateaction.bz/)
+-->
+
