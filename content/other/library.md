@@ -59,7 +59,7 @@ The full paper list can be found via the following profiles:
 
 # Coding
 
-I love to work with <a href="https://www.r-project.org/"><i class="fab fa-r-project"></i></a>. You can find some projects on [my Github page](https://github.com/mitmat/).
+I love to work with <a href="https://www.r-project.org/"><i class="fab fa-r-project"></i></a> but occasionally use python and bash. You can find some projects on [my Github page](https://github.com/mitmat/).
 
 - Maintainer of `eurocordexr`, an R-package that makes it easier to work with [EURO-CORDEX](https://www.euro-cordex.net/) regional climate model simulation netcdf files. Available via [CRAN](https://cran.r-project.org/web/packages/eurocordexr/index.html) with the [source](https://github.com/mitmat/eurocordexr) on Github.
 - Created websites (this one here and the one for [CliRSnow](https://clirsnow.netlify.app/)) with `blogdown`

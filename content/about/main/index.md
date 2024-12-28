@@ -22,7 +22,6 @@ intro: |
   
   - asking questions
   - creating visualizations (static, interactive)
-  - exploring the steady stream of new capabilities of R and RStudio
   - learning
   
   
